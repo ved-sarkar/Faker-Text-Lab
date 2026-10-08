@@ -1,4 +1,4 @@
-# Faker — text substitution experiments
+# Faker Text Lab
 
 Python experiments for replacing tagged names and phone numbers with generated values, then exploring regex and local language-model redaction. The project combines spreadsheet processing, Faker-based substitution, and exploratory result reporting.
 
